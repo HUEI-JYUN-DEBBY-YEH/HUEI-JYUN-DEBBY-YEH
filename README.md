@@ -1,5 +1,11 @@
 # 👋 Debby Yeh | NLP Application Engineer with a Mission
 
+# 👋 Hi, I'm Debby Yeh
+
+🎯 NLP Application Engineer | HR Tech Enthusiast | Open-Source Contributor
+
+Passionate about building ethical AI tools that enhance workplace transparency and empower individuals.
+
 ## 💡 Why I Build NLP Systems
 
 I believe language is the core interface between people, systems, and decision-making. Coming from an HR background and transitioning into NLP, I aim to build AI tools that improve workplace transparency, reduce institutional bias, and empower individuals.
