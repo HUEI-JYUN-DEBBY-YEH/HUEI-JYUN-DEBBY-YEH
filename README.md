@@ -1,5 +1,7 @@
 # 👋 Debby Yeh | NLP Application Engineer with a Mission
 
+All repositories in this profile are part of my applied research path toward co-designing responsible AI systems with multilingual understanding, especially in the HR and emotion-aware domains.
+
 # 👋 Hi, I'm Debby Yeh
 
 🎯 NLP Application Engineer | HR Tech Enthusiast | Open-Source Contributor
