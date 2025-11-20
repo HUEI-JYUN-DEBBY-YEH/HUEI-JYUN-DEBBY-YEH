@@ -1,30 +1,78 @@
-# 👋 Debby Yeh | NLP Application Engineer with a Mission
-
-All repositories in this profile are part of my applied research path toward co-designing responsible AI systems with multilingual understanding, especially in the HR and emotion-aware domains.
-
 # 👋 Hi, I'm Debby Yeh
 
-🎯 NLP Application Engineer | HR Tech Enthusiast | Open-Source Contributor
+### **Emotional AI Engineer · Multi-Agent Systems · Google Workspace Integrations**
 
-Passionate about building ethical AI tools that enhance workplace transparency and empower individuals.
+I build **emotionally-aware, culturally-grounded AI systems** — from cloud multi-agent orchestration to on-device emotional care.
 
-## 💡 Why I Build NLP Systems
+My work focuses on **how AI can listen**, reason across cultures, and support real human workflows.
 
-I believe language is the core interface between people, systems, and decision-making. Coming from an HR background and transitioning into NLP, I aim to build AI tools that improve workplace transparency, reduce institutional bias, and empower individuals.
+---
 
-My work focuses on combining real-world social insight with applied AI—especially in areas where fairness, communication, and scalable systems intersect.
+## 🌱 What I Build
 
-## 🔍 Featured Projects
+**AI that listens before it acts.**
+Across Mandarin, English, and Taiwanese contexts, I design systems that understand nuance, subtext, and emotional signals that traditional models often miss.
 
-- **AI Chatbot for Taiwan Labor Law** – A legal assistant chatbot using fine-tuned BERT and FAISS for semantic retrieval.
-- **Multimodal Sentiment Analysis** – Combining WhisperX, RoBERTa, and facial expression detection for timeline-aligned workplace emotion recognition.
-- **Resume-JD Matching System** – Semantic matching engine using Sentence-BERT, spaCy, and clustering for HR automation.
+My work spans:
 
-Explore the full portfolio here 👉 [Notion Portfolio](https://mango-mapusaurus-5df.notion.site/Debby-Yeh-NLP-Application-Engineer-Portfolio-1ca5118474d2801caa58de564fb53e38?pvs=4)
+* Emotional pacing & scaffolding design
+* Multi-agent orchestration (LangGraph, Gemini, ADK)
+* Google Workspace tools (Gmail, Calendar, YouTube, Notion)
+* Chrome Prompt API (on-device emotional care)
+* Cultural-aware emotional reasoning (SIIHA v2)
 
-## 🌐 Find Me
+---
 
-- 📚 Medium: [@debby.yeh1994](https://medium.com/@debby.yeh1994)
-- 💻 GitHub: [HUEI-JYUN-DEBBY-YEH](https://github.com/HUEI-JYUN-DEBBY-YEH)
-- 🌐 Portfolio: [Notion](https://mango-mapusaurus-5df.notion.site/Debby-Yeh-NLP-Application-Engineer-Portfolio-1ca5118474d2801caa58de564fb53e38?pvs=4)
-- 🌐 LinkedIn: [Huei-jyun (Debby) Yeh](https://www.linkedin.com/in/debbyyeh/)
+## 🧩 Signature Project — SIIHA
+
+**System for the Isolated Illumination × Human Agency**
+*A six-version emotional × productivity AI system.*
+
+### **v1 — Zephyr: Mandarin Emotional HR Assistant**
+
+LoRA fine-tuned for burnout, resignation, and emotional nuance.
+
+### **v2 — Gemini Task Agent**
+
+Function-calling automation with cultural reasoning.
+
+### **v3 — Gemini × Notion**
+
+Auto-recorded HR workflow with trust memory.
+
+### **v4 — Google Workspace × ADK**
+
+Multi-agent system for real workflows (Gmail, Calendar, Notion).
+
+### **v5 — SIIHA v1 (Cloud UI × Python SDK × Gemini CLI Plugin)**
+
+LangGraph multi-agent + Workspace APIs + emotional pacing engine.
+**Demo:** [https://youtu.be/lHpdLxt32ds?si=axsXmdb3sL9rdBZz](https://youtu.be/lHpdLxt32ds?si=axsXmdb3sL9rdBZz)
+
+### **v6 — SIIHA CE v1 (Chrome Extension)**
+
+On-device emotional care via Chrome Prompt API.
+**Demo:** [https://youtu.be/XfGPwniVOW8?si=59Zk5PtXSirwK-gQ](https://youtu.be/XfGPwniVOW8?si=59Zk5PtXSirwK-gQ)
+
+---
+
+## 🧠 Current Work — SIIHA v2
+
+**Emotional Context Engine (Oct 2025 – Mar 2026)**
+A cultural-aware emotional reasoning engine for metaphor, subtext, and Taiwanese indirect speech.
+
+---
+
+## 🔗 Portfolio
+
+👉 **Full Portfolio:**
+[https://mango-mapusaurus-5df.notion.site/huei-jyun-debby-yeh-portfolio](https://mango-mapusaurus-5df.notion.site/huei-jyun-debby-yeh-portfolio)
+
+---
+
+## 📬 Find Me
+
+* LinkedIn: [https://www.linkedin.com/in/debbyyeh/](https://www.linkedin.com/in/debbyyeh/)
+* GitHub: [https://github.com/HUEI-JYUN-DEBBY-YEH](https://github.com/HUEI-JYUN-DEBBY-YEH)
+* Medium: [https://medium.com/@debby.yeh1994](https://medium.com/@debby.yeh1994)
+* HuggingFace: [https://huggingface.co/DEBBY-YEH](https://huggingface.co/DEBBY-YEH)
