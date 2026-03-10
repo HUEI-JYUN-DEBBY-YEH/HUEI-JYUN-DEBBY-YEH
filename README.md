@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Debby Yeh
 
-### **Emotional AI Engineer · Multi-Agent Systems · Google Workspace Integrations**
+### **AI Systems Designer · Multi-Agent Safety & Socioaffective AI Systems · Contextual Alignment Infrastructure**
 
 I build **emotionally-aware, culturally-grounded AI systems** — from cloud multi-agent orchestration to on-device emotional care.
 
