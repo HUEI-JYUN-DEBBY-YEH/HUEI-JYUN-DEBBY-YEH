@@ -2,7 +2,7 @@
 
 ### **AI Systems Researcher · AI Governance & Safety · Contextual Alignment Infrastructure**
 
-I build **emotion-aware, culturally-grounded AI systems** with a strong focus on runtime governance to protect human agency during prolonged AI interactions. 
+I build **socioaffective AI systems and safety guardrails** with a strong focus on runtime governance to protect human agency during prolonged AI interactions. 
 
 Coming from a humanities and Human Resources (HR) background, my work bridges behavioral insights with system-level architectural constraints — ensuring AI respects human boundaries.
 
