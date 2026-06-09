@@ -1,78 +1,60 @@
 # 👋 Hi, I'm Debby Yeh
 
-### **AI Systems Designer · Multi-Agent Safety & Socioaffective AI Systems · Contextual Alignment Infrastructure**
+### **AI Systems Researcher · AI Governance & Safety · Contextual Alignment Infrastructure**
 
-I build **emotionally-aware, culturally-grounded AI systems** — from cloud multi-agent orchestration to on-device emotional care.
+I build **emotion-aware, culturally-grounded AI systems** with a strong focus on runtime governance to protect human agency during prolonged AI interactions. 
 
-My work focuses on **how AI can listen**, reason across cultures, and support real human workflows.
+Coming from a humanities and Human Resources (HR) background, my work bridges behavioral insights with system-level architectural constraints — ensuring AI respects human boundaries.
 
 ---
 
 ## 🌱 What I Build
 
-**AI that listens before it acts.**
-Across Mandarin, English, and Taiwanese contexts, I design systems that understand nuance, subtext, and emotional signals that traditional models often miss.
+**AI that aligns with human boundaries, reasons with context, and integrates safely.**
+Rather than treating user context as a mere prompt feature, I investigate it as a controllable system variable. 
 
 My work spans:
-
-* Emotional pacing & scaffolding design
-* Multi-agent orchestration (LangGraph, Gemini, ADK)
-* Google Workspace tools (Gmail, Calendar, YouTube, Notion)
-* Chrome Prompt API (on-device emotional care)
-* Cultural-aware emotional reasoning (SIIHA v2)
+* **System-level runtime governance & safety guardrails**
+* **Socioaffective AI risk mitigation** (preventing AI over-reliance & dependency)
+* **Deterministic routing** and multi-turn state tracking
+* **Rapid prototyping** for Human-Computer Interaction (HCI)
 
 ---
 
 ## 🧩 Signature Project — SIIHA
 
-**System for the Isolated Illumination × Human Agency**
-*A six-version emotional × productivity AI system.*
+**SIIHA (System for the Isolated Illumination × Human Agency)** 
+*An ongoing independent research initiative exploring how we can build safer, boundary-aware AI systems through runtime governance.*
 
-### **v1 — Zephyr: Mandarin Emotional HR Assistant**
+### 🚀 Phase 2: SIIHA Safety Guardrail (Current Focus)
+*A hand-coded deterministic runtime governance layer designed to mitigate AI dependency.*
 
-LoRA fine-tuned for burnout, resignation, and emotional nuance.
+Instead of relying on black-box LLM safety, I engineered a system-level middle layer that observes multi-turn interaction trajectories, detects socioaffective risks, and applies reversible runtime constraints.
+* **Tech Stack:** Python, FastAPI, React, Gemini API
+* **Key Features:** Multi-turn state machine, Pipeline pattern, Deterministic routing.
+* 🔗 [**View Repository**](https://github.com/HUEI-JYUN-DEBBY-YEH/siiha-safety-guardrail) | 📺 [**Watch Demo Video**](https://youtu.be/9Br2icVeIx8)
 
-### **v2 — Gemini Task Agent**
+### 🧪 Phase 1: Problem Space Exploration & Rapid Prototyping
+*How does human-AI emotional dependency form across different interfaces?*
 
-Function-calling automation with cultural reasoning.
+Before writing the core infrastructure, I spent months conducting rapid problem-space exploration. Using LLM-assisted coding, I prototyped 7 different versions of SIIHA across diverse environments (from Chrome Prompt API and LangGraph to Zephyr fine-tuning). 
 
-### **v3 — Gemini × Notion**
-
-Auto-recorded HR workflow with trust memory.
-
-### **v4 — Google Workspace × ADK**
-
-Multi-agent system for real workflows (Gmail, Calendar, Notion).
-
-### **v5 — SIIHA v1 (Cloud UI × Python SDK × Gemini CLI Plugin)**
-
-LangGraph multi-agent + Workspace APIs + emotional pacing engine.
-**Demo:** [https://youtu.be/lHpdLxt32ds?si=axsXmdb3sL9rdBZz](https://youtu.be/lHpdLxt32ds?si=axsXmdb3sL9rdBZz)
-
-### **v6 — SIIHA CE v1 (Chrome Extension)**
-
-On-device emotional care via Chrome Prompt API.
-**Demo:** [https://youtu.be/XfGPwniVOW8?si=59Zk5PtXSirwK-gQ](https://youtu.be/XfGPwniVOW8?si=59Zk5PtXSirwK-gQ)
+This extensive exploration proved a critical lesson: UI tweaks and prompt engineering are not enough. True safety requires architectural guardrails, which led directly to the creation of Phase 2.
+* 🔗 [**Read the 7-Version Exploration Journey**](https://mango-mapusaurus-5df.notion.site/siiha-exploration-phase-one?source=copy_link)
 
 ---
 
-## 🧠 Current Work — SIIHA v2
+## 🔗 Portfolio & Articles
 
-**Emotional Context Engine (Oct 2025 – Mar 2026)**
-A cultural-aware emotional reasoning engine for metaphor, subtext, and Taiwanese indirect speech.
-
----
-
-## 🔗 Portfolio
-
-👉 **Full Portfolio:**
-[https://mango-mapusaurus-5df.notion.site/huei-jyun-debby-yeh-portfolio](https://mango-mapusaurus-5df.notion.site/huei-jyun-debby-yeh-portfolio)
+* 🌐 **Full Portfolio:** [Debby Yeh's Notion Portfolio](https://mango-mapusaurus-5df.notion.site/huei-jyun-debby-yeh-portfolio)
+* ✍️ **Featured Article:** [Constraining AI Empathy: Runtime Governance for Long-Term Human-AI Interaction](https://medium.com/@debby.yeh1994/constraining-ai-empathy-runtime-governance-for-long-term-human-ai-interaction-9475a8e139e5)
 
 ---
 
-## 📬 Find Me
+## 📬 Let's Connect
 
-* LinkedIn: [https://www.linkedin.com/in/debbyyeh/](https://www.linkedin.com/in/debbyyeh/)
-* GitHub: [https://github.com/HUEI-JYUN-DEBBY-YEH](https://github.com/HUEI-JYUN-DEBBY-YEH)
-* Medium: [https://medium.com/@debby.yeh1994](https://medium.com/@debby.yeh1994)
-* HuggingFace: [https://huggingface.co/DEBBY-YEH](https://huggingface.co/DEBBY-YEH)
+If your team is exploring AI safety, runtime governance, emotion-aware interfaces, or human-centered AI, I’d love to connect!
+
+* **LinkedIn:** [linkedin.com/in/debbyyeh](https://www.linkedin.com/in/debbyyeh/)
+* **Medium:** [medium.com/@debby.yeh1994](https://medium.com/@debby.yeh1994)
+* **HuggingFace:** [huggingface.co/DEBBY-YEH](https://huggingface.co/DEBBY-YEH)
