@@ -38,13 +38,13 @@ Rather than modifying the foundation model itself, SIIHA observes multi-turn int
   
 * Reality Distortion & Exclusivity Signals
 
-### Current Version: siiha-safety-guardrail v1.0-alpha
+### Current Version: SIIHA Safety Guardrail v1.0-alpha
 
-* Repo: https://github.com/HUEI-JYUN-DEBBY-YEH/siiha-safety-guardrail
-  
-* Demo Vidoe: https://youtu.be/9Br2icVeIx8?si=AuM4NHIwU8yFBUVg
-  
-* Medium Article: to be updated
+📦 **Repository** → [siiha-safety-guardrail](https://github.com/HUEI-JYUN-DEBBY-YEH/siiha-safety-guardrail)
+
+🎥 **Demo Video** → [Watch on YouTube](https://youtu.be/9Br2icVeIx8?si=AuM4NHIwU8yFBUVg)
+
+📖 **Medium Article** → Coming Soon
 
 ---
 
@@ -90,12 +90,12 @@ Runtime Governance Systems
 
 ---
 
-## Publication & Writing
+## 📚 Publications & Writing
 
-📝 **Medium:** [https://medium.com/@debby.yeh1994](https://medium.com/@debby.yeh1994)
+📝 **Medium** → [Articles & Research Notes](https://medium.com/@debby.yeh1994)
 
-🙋🏻‍♀️ **LinkedIn:** [https://www.linkedin.com/in/debbyyeh/](https://www.linkedin.com/in/debbyyeh/)
+🙋🏻‍♀️ **LinkedIn** → [HUEI JYUN (Debby) YEH](https://www.linkedin.com/in/debbyyeh/)
 
-👩🏻‍💻 **Portfolio:** [https://app.notion.com/p/Debby-Yeh-Portfolio-1f95118474d2808793bde01a78df1e44?source=copy_link](https://app.notion.com/p/Debby-Yeh-Portfolio-1f95118474d2808793bde01a78df1e44?source=copy_link)
+👩🏻‍💻 **Portfolio** → [Research Portfolio](https://app.notion.com/p/Debby-Yeh-Portfolio-1f95118474d2808793bde01a78df1e44?source=copy_link)
 
-✉️ **Email:** [debby83317@gmail.com](debby83317@gmail.com)
+✉️ **Email** → [debby83317@gmail.com](mailto:debby83317@gmail.com)
