@@ -44,7 +44,7 @@ Rather than modifying the foundation model itself, SIIHA observes multi-turn int
 
 🎥 **Demo Video** → [Watch on YouTube](https://youtu.be/9Br2icVeIx8?si=AuM4NHIwU8yFBUVg)
 
-📖 **Medium Article** → Coming Soon
+📖 **Medium Article** → [Why I build SIIHA](https://medium.com/@debby.yeh1994/siiha-safety-guardrail-a-system-level-runtime-governance-layer-for-long-term-human-ai-interaction-15d2857ada6f)
 
 ---
 
