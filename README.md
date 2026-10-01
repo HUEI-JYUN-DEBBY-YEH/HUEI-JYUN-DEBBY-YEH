@@ -123,6 +123,6 @@ My work has gradually shifted from building AI interaction features toward study
 
 🙋🏻‍♀️ LinkedIn → [HUEI JYUN (Debby) YEH](https://www.linkedin.com/in/debbyyeh/)
 
-👩🏻‍💻 Portfolio → [Research Portfolio](/Debby-Yeh-Portfolio-1f95118474d2808793bde01a78df1e44?source=copy_link)
+👩🏻‍💻 Portfolio → [Research Portfolio](https://app.notion.com/p/Debby-Yeh-Portfolio-1f95118474d2808793bde01a78df1e44?source=copy_link)
 
 ✉️ Email → debby83317@gmail.com
